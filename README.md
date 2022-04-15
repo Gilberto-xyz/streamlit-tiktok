@@ -28,3 +28,11 @@ pip install streamlit
 ```bash
 streamlit run web.py
 ```
+
+### 5. Imagenes de referencia
+
+[Notebook ilustratuvo](https://github.com/GilbertoNavaMarcos/streamlit-tiktok/blob/main/DiversitySV.ipynb)
+![Notebook ilustratuvo](chart.png)
+
+[Script de python](https://github.com/GilbertoNavaMarcos/streamlit-tiktok/blob/main/web.py)
+![Notebook ilustratuvo](webapp.png)
